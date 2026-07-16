@@ -119,5 +119,3 @@ def calculate_grade(scores: list[float]) -> tuple[str, float]:
 scores = [85, 92, 78, 88, 95]
 print(calculate_grade(scores))
 ```
-
-**คุณอยากให้ผมช่วยอธิบายส่วนไหนของ Level 4 เพิ่มเติมไหมครับ?**
